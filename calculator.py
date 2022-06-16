@@ -3,3 +3,6 @@ def multiply_p(*numbers):
     for i in numbers:
         total *= i
     print(total)
+
+
+multiply(3, 5, 10)
