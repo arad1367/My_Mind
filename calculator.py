@@ -6,3 +6,4 @@ def multiply_p(*numbers):
 
 
 multiply(3, 5, 10)
+multiply(3, 5, 20)
