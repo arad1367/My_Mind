@@ -6,3 +6,8 @@ def multiply_p(*numbers):
 
 
 multiply(3, 5, 10)
+
+
+def add_p (x, y):
+    a = lambda x,y:x+y
+    return a(x,y)
