@@ -6,4 +6,8 @@ def multiply_p(*numbers):
 
 
 multiply(3, 5, 10)
-multiply(3, 5, 20)
+
+
+def add_p(x, y):
+    def a(x, y): return x+y
+    return a(x, y)
